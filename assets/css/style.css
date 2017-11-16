@@ -1,0 +1,48 @@
+body {
+    background: url('../images/twd.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+#container {
+    width: 700px;
+    margin-left: 300px;
+}
+
+div>p {
+      color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+p {
+    padding: 0px;
+    margin: 0px;
+}
+
+.chbutton {
+    background-color: white;
+    border: none;
+    padding: 10px;
+    margin: 0;
+    border-style: solid;
+}
+
+.character {
+    height: 120px;
+    width: 90px;
+    background-color: white;
+    border-style: solid;
+}
+
+.ebutton {
+    background-color: red;
+    border: none;
+    padding: 10px;
+    margin: 0;
+    border-style: solid;
+}
+
+img {
+    width: 105px;
+    height: 75px;
+}
