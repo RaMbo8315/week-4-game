@@ -14,7 +14,8 @@ div>p {
     font-size: 22px;
 }
 
-p {
+.charName {
+    padding-left: 15px;
     padding: 0px;
     margin: 0px;
 }
@@ -28,8 +29,9 @@ p {
 }
 
 .character {
-    height: 120px;
-    width: 90px;
+    display: inline-block;
+    height: 150px;
+    width: 150px;
     background-color: white;
     border-style: solid;
 }
@@ -43,6 +45,7 @@ p {
 }
 
 img {
-    width: 105px;
-    height: 75px;
+    width: 115px;
+    height: 80px;
+    padding-left: 15px;
 }
